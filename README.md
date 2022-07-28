@@ -6,7 +6,6 @@
 * На выходе получить максимальное значение цены.
 
 ### Для обработки информации используется программа:
-
 ```javascript
 public class SalesManager {
     protected int[] sales;
